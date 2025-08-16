@@ -41,8 +41,12 @@ sr/local/bin/vim
 15  
 
 Forensics Questions (30 marks)
+
 1 426 packets
-2 4 <img width="1920" height="1080" alt="Screenshot_2025-08-09_12_18_14" src="https://github.com/user-attachments/assets/f691e9b7-d875-4b9f-ab00-c498a7d089ce" />
+
+
+2 4
+<img width="1920" height="1080" alt="Screenshot_2025-08-09_12_18_14" src="https://github.com/user-attachments/assets/f691e9b7-d875-4b9f-ab00-c498a7d089ce" />
 3 10.10.10.31
 172.16.238.1
 172.16.238.10
