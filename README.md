@@ -73,6 +73,8 @@ Server: SimpleHTTP/0.6 Python/3.4.2\r\n
 <img width="1920" height="1080" alt="Screenshot_2025-08-16_12_23_27" src="https://github.com/user-attachments/assets/515e968b-312f-4e94-b09e-f9606da37b73" />
 13
 nc -lvnp 9001
+
+
 14
 id
 <img width="1920" height="1080" alt="Screenshot_2025-08-16_12_26_09" src="https://github.com/user-attachments/assets/db78093c-dcbf-4816-b393-f8526d2a0466" />
